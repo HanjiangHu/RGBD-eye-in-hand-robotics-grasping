@@ -4,7 +4,8 @@ This project is a eye-in-hand RGBD-based vision system for UR-5 robotics graspin
 Third Price of ORBBEC 3-D Sensor Application Design Competition in 2018 International Conference on Optical and Photonic Engineering ([ICOPEN 2018](http://jsem.jp/jsem-bbs/img/375.pdf)).
 
 ## Demo
-Check the video [HERE](https://youtu.be/8ylxOqa1HiY).
+
+https://youtu.be/8ylxOqa1HiY
 
 <img src='img/toy.gif' align="center" width=666 alt="Text alternative when image is not available">
 <br><br>
