@@ -1,3 +1,6 @@
 [submodule "ROS-voice-module"]
 	path = ROS-voice-module
 	url = https://github.com/HanjiangHu/ROS-voice-module
+[submodule "ROS-detection-and-segmentation"]
+	path = ROS-detection-and-segmentation
+	url = https://github.com/HanjiangHu/ROS-detection-and-segmentation
